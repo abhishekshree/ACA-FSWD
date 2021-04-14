@@ -20,6 +20,7 @@ HTTP Protocol allows the fetching of resources, such as HTML documents, images, 
 <p align="center">
   <img src="./framework-vs-library.webp" />
 </p>
+
 | Framework                          	| Library                                 	|
 |------------------------------------	|-----------------------------------------	|
 | Contains predefined code template. 	| Collection of class definitions.        	|
