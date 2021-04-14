@@ -9,7 +9,7 @@
 - gp='git push'
 - gra='git remote add'
 - gsb='git status -sb'
-
+- glols="git log --graph --pretty='%Cred%h%Creset -%C(auto)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --stat"
 
 Also some functions like
 1. Force push
