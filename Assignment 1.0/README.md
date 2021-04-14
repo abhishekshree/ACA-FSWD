@@ -26,3 +26,12 @@ HTTP Protocol allows the fetching of resources, such as HTML documents, images, 
 | Contains predefined code template. 	| Collection of class definitions.        	|
 | Normally more complex.             	| Simpler, straightforward chunk of code. 	|
 | Has a broad scope for application. 	| Relatively narrower scoped.             	|
+
+---
+
+Shell commands used:
+```shell
+mkdir - making folder
+cd - to change folder
+# And some git commands mentioned in the Alternative.
+```
