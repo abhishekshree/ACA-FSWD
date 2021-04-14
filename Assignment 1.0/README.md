@@ -15,4 +15,13 @@ HTTP Protocol allows the fetching of resources, such as HTML documents, images, 
 | Governs how any information can be transmitted on the WWW 	| Highly advanced and secure version of HTTP    	|
 | No explicit encryption                                    	| Encrypts entire communication with SSL or TLS 	|
 | Default operates on port 80                               	| Default operates on port 443                  	|
-|
+
+#### Frameworks vs Libraries
+<p align="center">
+  <img src="./framework-vs-library.webp" />
+</p>
+| Framework                          	| Library                                 	|
+|------------------------------------	|-----------------------------------------	|
+| Contains predefined code template. 	| Collection of class definitions.        	|
+| Normally more complex.             	| Simpler, straightforward chunk of code. 	|
+| Has a broad scope for application. 	| Relatively narrower scoped.             	|
