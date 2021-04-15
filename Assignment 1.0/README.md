@@ -7,7 +7,7 @@ Anything that is displayed to the end user. This includes what the user sees, su
 #### Serverside
 Anything happening on the web server is serverside. From complex calculations, to database handling line adding, deleting, etc.
 
-[Also found this pretty elaborate](https://softwareengineering.stackexchange.com/questions/171203/what-are-the-differences-between-server-side-and-client-side-programming)
+#### [Also found this pretty elaborate](https://softwareengineering.stackexchange.com/questions/171203/what-are-the-differences-between-server-side-and-client-side-programming)
 ---
 #### HTTP Protocol
 HTTP Protocol allows the fetching of resources, such as HTML documents, images, etc. It basically sets up rules to request to and from the web server.
