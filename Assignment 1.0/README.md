@@ -29,9 +29,15 @@ HTTP Protocol allows the fetching of resources, such as HTML documents, images, 
 
 ---
 
-Shell commands used:
+**Shell commands used:**
 ```shell
 mkdir - making folder
 cd - to change folder
+touch - to create the readme file
+ls - to view the contents of the folder
+mv - for moving contents from one folder to another (also for renaming)
+rm - delete file
+cp - copy file
+
 # And some git commands mentioned in the Alternative.
 ```
