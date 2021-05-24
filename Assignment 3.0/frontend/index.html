@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Task 3</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<div class="btnContainer" id="btnContainer">
+    <div class="getToken" id="getToken">
+        <p>Get your token to add user, or get data for a user.</p>
+        <div id="btnBox">
+            <button id="btnToken">Get Token</button>
+            <button id="btnUserData">Get Data</button>
+        </div>
+    </div>
+</div>
+<div class="container" id="container">
+    <button id="Home">&lArr; Back</button>
+    <p id="tokenPara"></p>
+    <br>
+    <form action="" id="registerForm">
+        <label for="name">Username:</label>
+        <input type="text" name="name" id="name" placeholder="Username">
+        <label for="data">Data:</label>
+        <input type="text" name="data" id="data" placeholder="Data">
+        <label for="token">Token:</label>
+        <input type="text" name="token" id="token" placeholder="Token">
+        <p id="res"></p>
+        <input type="submit" name="submit">
+    </form>
+</div>
+
+<div class="dataContainer" id="dataContainer">
+    <button id="dataHome" style="margin-bottom: 40px">&lArr; Back</button>
+    <form action="" id="dataForm">
+        <label for="dataToken">Token:</label>
+        <input type="text" name="dataToken" id="dataToken" placeholder="Token">
+        <p id="dataRes"></p>
+        <input type="submit" name="submit">
+    </form>
+    <div class="results" id="results">
+        <div class="username">
+            <span>USERNAME: </span> <span id="unameSpan"></span>
+        </div>
+        <div class="data">
+            <span>DATA: </span><span id="dataSpan"></span>
+        </div>
+    </div>
+</div>
+
+<script src="./index.js"></script>
+</body>
+</html>
